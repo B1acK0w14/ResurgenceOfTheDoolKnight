@@ -3,7 +3,7 @@ Dool is a knight very powerfull and he's known as the best champion of his kingd
 
 ***Can you make this? Or maybe you don't have the skill that Dool needs?*** 
 
-<ins>Test it<ins>!!
+<ins>Prove it<ins>!!
 
 ### Pre-requirements   📋
 * Unity Hub
