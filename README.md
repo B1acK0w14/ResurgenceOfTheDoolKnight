@@ -7,6 +7,7 @@ Dool is a knight very powerfull and he's known as the best champion of his kingd
 
 ### Pre-requirements   📋
 * Unity Hub
+* Unity
 * PC (Mac or Windows)
 
 <ins>Unity Hub Link<ins>:
